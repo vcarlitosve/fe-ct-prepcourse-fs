@@ -211,9 +211,8 @@ function doWhile(num) {
    do {
       num = num + 5;
       i++ 
-   } while (i < 8) {
-   return num;
-   }
+   } while (i < 8) 
+      return num;
 }
 
 /*⚠️ NO MODIFIQUES NADA DEBAJO DE ESTO ⚠️*/
